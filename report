@@ -1,0 +1,5 @@
+version 1.1 >> bugs fixed could not get complex values
+version 1.2 >> bugs are fuxed , zero value coeffecient problem addresed
+version 1.3 >> bugs are fixed ,divide by zero error is thrown
+version 1.4 >> bugs are fixed, adding of print statements is done
+version 1>> basic implementation of math equation is done
